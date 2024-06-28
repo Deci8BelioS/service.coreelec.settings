@@ -135,20 +135,12 @@ msgid "Restore a tar archive backup previously created using the backup option a
 msgstr "Restaurar un archivo tar de respaldo creado previamente utilizando la opción de respaldo anterior"
 
 msgctxt "#724"
-msgid ""
-"[COLOR FF00FF00]SOFT RESET[/COLOR]\n"
-"Permanently reset @DISTRONAME@ configuration to defaults (resets also Kodi to default including your library. your media - music/videos/etc are not touched)"
-msgstr ""
-"[COLOR FF00FF00]REINICIO SUAVE[/COLOR]\n"
-"Restablecer permanentemente la configuración de @DISTRONAME@ a los valores predeterminados (también restablece Kodi a los valores predeterminados, incluyendo tu biblioteca. tus medios - música/videos/etc no se tocan)"
+msgid "[COLOR FF00FF00]SOFT RESET[/COLOR]\nPermanently reset @DISTRONAME@ configuration to defaults (resets also Kodi to default including your library. your media - music/videos/etc are not touched)"
+msgstr "[COLOR FF00FF00]REINICIO SUAVE[/COLOR]\nRestablecer permanentemente la configuración de @DISTRONAME@ a los valores predeterminados (también restablece Kodi a los valores predeterminados, incluyendo tu biblioteca. tus medios - música/videos/etc no se tocan)"
 
 msgctxt "#725"
-msgid ""
-"[COLOR FFFF0000]HARD RESET[/COLOR]\n"
-"Permanently reset @DISTRONAME@ and Kodi configuration to defaults (everything in your storage partition will be deleted)"
-msgstr ""
-"[COLOR FFFF0000]REINICIO DURO[/COLOR]\n"
-"Restablecer permanentemente la configuración de @DISTRONAME@ y Kodi a los valores predeterminados (todo en tu partición de almacenamiento será eliminado)"
+msgid "[COLOR FFFF0000]HARD RESET[/COLOR]\nPermanently reset @DISTRONAME@ and Kodi configuration to defaults (everything in your storage partition will be deleted)"
+msgstr "[COLOR FFFF0000]REINICIO DURO[/COLOR]\nRestablecer permanentemente la configuración de @DISTRONAME@ y Kodi a los valores predeterminados (todo en tu partición de almacenamiento será eliminado)"
 
 msgctxt "#726"
 msgid "Enable or disable support for Wireless (WLAN) networks"
@@ -236,7 +228,7 @@ msgstr "Cambiar el PIN de bloqueo para el acceso a Configuraciones de @DISTRONAM
 
 msgctxt "#749"
 msgid "Overrride the Wireless Regulatory Domain so radio properties (channels and transmit power) comply with local laws or match the country configuration of your router."
-msgstr "Anular el Dominio Regulatorio Inalámbrico para que las propiedades de radio (canales y potencia de transmisión) cumplan con las leyes locales o coincidan con la configuración del país de tu router."
+msgstr "Anular el dominio regulatorio inalámbrico para que las propiedades de radio (canales y potencia de transmisión) cumplan con las leyes locales o coincidan con la configuración del país de tu router."
 
 msgctxt "#750"
 msgid "750"
@@ -452,7 +444,7 @@ msgstr "Teclado"
 
 msgctxt "#32010"
 msgid "BusyBox Console Keyboard Layout"
-msgstr "Distribución del Teclado de la Consola BusyBox"
+msgstr "Distribución del teclado de la consola BusyBox"
 
 msgctxt "#32012"
 msgid "Select Action"
@@ -464,7 +456,7 @@ msgstr "Actualizaciones del SO"
 
 msgctxt "#32014"
 msgid "Automatic Updates"
-msgstr "Actualizaciones Automáticas"
+msgstr "Actualizaciones automáticas"
 
 msgctxt "#32015"
 msgid "Update Channel"
@@ -472,19 +464,19 @@ msgstr "Canal de Actualización"
 
 msgctxt "#32016"
 msgid "Show Custom Channels"
-msgstr "Mostrar Canales Personalizados"
+msgstr "Mostrar canales personalizados"
 
 msgctxt "#32017"
 msgid "  - Custom Channel 1"
-msgstr "  - Canal Personalizado 1"
+msgstr "  - Canal personalizado 1"
 
 msgctxt "#32018"
 msgid "  - Custom Channel 2"
-msgstr "  - Canal Personalizado 2"
+msgstr "  - Canal personalizado 2"
 
 msgctxt "#32019"
 msgid "  - Custom Channel 3"
-msgstr "  - Canal Personalizado 3"
+msgstr "  - Canal personalizado 3"
 
 msgctxt "#32020"
 msgid "Available Versions"
@@ -492,11 +484,11 @@ msgstr "Versiones Disponibles"
 
 msgctxt "#32021"
 msgid "Submit Statistics"
-msgstr "Enviar Estadísticas"
+msgstr "Enviar estadísticas"
 
 msgctxt "#32022"
 msgid "Firmware Updates"
-msgstr "Actualizaciones de Firmware"
+msgstr "Actualizaciones de firmware"
 
 msgctxt "#32023"
 msgid "Updating will occur once the system is rebooted."
@@ -504,7 +496,7 @@ msgstr "La actualización ocurrirá una vez que se reinicie el sistema."
 
 msgctxt "#32024"
 msgid "Bootloader EEPROM"
-msgstr "EEPROM del Cargador de Arranque"
+msgstr "EEPROM del cargador de arranque"
 
 msgctxt "#32025"
 msgid "Update the Raspberry Pi Bootloader EEPROM to the latest version. This option is automatically disabled after rebooting. Reboot the system to apply the update."
@@ -528,7 +520,7 @@ msgstr "actualizado: %s"
 
 msgctxt "#32030"
 msgid "Update To Next Stable"
-msgstr "Actualizar a la Próxima Versión Estable"
+msgstr "Actualizar a la próxima versión estable"
 
 msgctxt "#32100"
 msgid "Connections"
@@ -540,11 +532,11 @@ msgstr "Red"
 
 msgctxt "#32102"
 msgid "Wireless Networks"
-msgstr "Redes Inalámbricas"
+msgstr "Redes inalámbricas"
 
 msgctxt "#32103"
 msgid "Wired Networks"
-msgstr "Redes Cableadas"
+msgstr "Redes cableadas"
 
 msgctxt "#32105"
 msgid "Active"
@@ -560,11 +552,11 @@ msgstr "Frase de Contraseña"
 
 msgctxt "#32108"
 msgid "Enable 'tethered' Wireless Access Point"
-msgstr "Habilitar Punto de Acceso Inalámbrico 'compartido'"
+msgstr "Habilitar punto de acceso inalámbrico 'compartido'"
 
 msgctxt "#32109"
 msgid "Connect Automatically"
-msgstr "Conectar Automáticamente"
+msgstr "Conectar automáticamente"
 
 msgctxt "#32110"
 msgid "Connection"
@@ -580,7 +572,7 @@ msgstr "IPv6"
 
 msgctxt "#32113"
 msgid "IP Address Method"
-msgstr "Método de Dirección IP"
+msgstr "Método de dirección IP"
 
 msgctxt "#32114"
 msgid "IP Address"
@@ -592,7 +584,7 @@ msgstr "Máscara de Subred"
 
 msgctxt "#32116"
 msgid "Default Gateway"
-msgstr "Puerta de Enlace Predeterminada"
+msgstr "Puerta de enlace predeterminada"
 
 msgctxt "#32117"
 msgid "Prefix Length"
@@ -676,15 +668,15 @@ msgstr "Emparejar"
 
 msgctxt "#32146"
 msgid "Hidden Network Name"
-msgstr "Nombre de Red Oculta"
+msgstr "Nombre de red oculta"
 
 msgctxt "#32147"
 msgid "Wireless Network Passphrase"
-msgstr "Frase de Contraseña de Red Inalámbrica"
+msgstr "Frase de Contraseña de red inalámbrica"
 
 msgctxt "#32148"
 msgid "Wireless Network Username"
-msgstr "Nombre de Usuario de Red Inalámbrica"
+msgstr "Nombre de Usuario de red inalámbrica"
 
 msgctxt "#32150"
 msgid "Edit"
@@ -908,7 +900,7 @@ msgstr "Tiempo restante antes de que se pueda ingresar el PIN: %02d:%02d[CR][CR]
 
 msgctxt "#32240"
 msgid "Wireless Regulatory Domain"
-msgstr "Dominio Regulador Inalámbrico"
+msgstr "Dominio Regulador inalámbrico"
 
 msgctxt "#32300"
 msgid "Welcome to @DISTRONAME@"
